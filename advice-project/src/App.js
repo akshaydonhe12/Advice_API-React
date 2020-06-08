@@ -29,7 +29,7 @@ class App extends React.Component {
         return(
            <div className="app">
                <div className="card">
-                   <h1 className="card">{advice}</h1>
+                   <h1 className="heading">{advice}</h1>
                </div>
            </div>
         );
